@@ -1,0 +1,120 @@
+
+
+
+
+
+#header{
+font-size: 59px;
+background-color: #90A3D0;
+font-family: times;
+font-style: oblique;
+padding-top: 40px;
+padding-bottom: 20px;
+color: white;
+margin: auto;
+text-align: center;
+box-shadow: 1px 1px 6px grey;
+
+
+
+
+
+}
+
+#backgroundcolor {
+background-color: #C7CEEA;
+padding-bottom: 600px;
+
+}
+
+
+#whitebackground{
+	position: relative;
+background: white;
+	width: 500px;
+	height: 320px;
+	text-align: left; 
+
+	margin: auto;
+	border: #E9E9F0
+	border-width: 10px;
+	box-shadow: 10px 10px 9px grey;
+	position: relative;
+	top: 150px;
+	
+
+
+}
+
+
+#Hi {
+
+	position: absolute;
+	left: 675px;
+	bottom: 120px;
+	width: 250PX;
+	font-size: 80%;
+
+}
+
+#disneybox{
+background: white;
+	position: relative;
+
+
+	/*padding-left : 32px;*/
+	right: -70px;
+	width: 300px;
+	height: 300px;
+	box-shadow: 10px 10px 9px grey;
+			text-align: center;
+
+}
+
+
+
+
+#disneybox2 {
+
+position: relative;
+right: -1000px;
+bottom: 300px;
+background: white;
+width: 300px;
+	height: 300px;
+	box-shadow: 10px 10px 9px grey;
+		text-align: center;
+
+
+}
+
+
+#education{
+
+position: relative;
+width: 500px;
+height: 100px;
+left: -540px;
+bottom: 70px;
+background: white;
+	box-shadow: 10px 10px 9px grey;
+	right: -600px;
+	text-align: center;
+
+
+
+
+}
+
+
+#footer{
+position: relative;
+	width: 200px;
+	height: 90px;
+	right: 400px;
+	background: white;
+	box-shadow: 10px 10px 9px grey;
+
+	text-align: center;
+
+}
